@@ -118,4 +118,10 @@
 
 ![a pic of me](_static/img/Lani.jpg)
 ```
+
+```{card}
+:class-card: slide
+
+![a pic of me](_static/img/URIRam.jpg)
+```
 <div>

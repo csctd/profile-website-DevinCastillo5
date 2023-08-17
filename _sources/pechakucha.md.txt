@@ -26,6 +26,12 @@
 ```{card}
 :class-card: slide
 
+![a pic of me](_static/img/UCS.jpg)
+```
+
+```{card}
+:class-card: slide
+
 ![a pic of me](_static/img/Car.jpg)
 ```
 
@@ -62,6 +68,12 @@
 ```{card}
 :class-card: slide
 
+![a pic of me](_static/img/Building.jpg)
+```
+
+```{card}
+:class-card: slide
+
 ![a pic of me](_static/img/Path.jpg)
 ```
 
@@ -81,5 +93,29 @@
 :class-card: slide
 
 ![a pic of me](_static/img/Store.jpg)
+```
+
+```{card}
+:class-card: slide
+
+![a pic of me](_static/img/Building2.jpg)
+```
+
+```{card}
+:class-card: slide
+
+![a pic of me](_static/img/Juan.jpg)
+```
+
+```{card}
+:class-card: slide
+
+![a pic of me](_static/img/Lounge2.jpg)
+```
+
+```{card}
+:class-card: slide
+
+![a pic of me](_static/img/Lani.jpg)
 ```
 <div>

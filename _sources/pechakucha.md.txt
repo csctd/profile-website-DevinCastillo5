@@ -46,4 +46,40 @@
 
 ![a pic of me](_static/img/RA.jpg)
 ```
+
+```{card}
+:class-card: slide
+
+![a pic of me](_static/img/Lounge.jpg)
+```
+
+```{card}
+:class-card: slide
+
+![a pic of me](_static/img/Me.jpg)
+```
+
+```{card}
+:class-card: slide
+
+![a pic of me](_static/img/Path.jpg)
+```
+
+```{card}
+:class-card: slide
+
+![a pic of me](_static/img/Game.jpg)
+```
+
+```{card}
+:class-card: slide
+
+![a pic of me](_static/img/Quad.jpg)
+```
+
+```{card}
+:class-card: slide
+
+![a pic of me](_static/img/Store.jpg)
+```
 <div>
